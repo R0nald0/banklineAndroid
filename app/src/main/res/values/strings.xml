@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bankline Android</string>
+    <string name="txtIdentificador">Digite o Identificador da sua Conta</string>
+    <string name="txtBenvindo">Olá!!,Bem vindo.Digite o identificador da sua conta para ver seu extrato </string>
+    <string name="txtBotaoProcurar">Buscar </string>
+
+</resources>
